@@ -1,7 +1,7 @@
-# This project is based on Featured prediction Competition by [kaggle.com](https://www.kaggle.com/competitions/bluebook-for-bulldozers/data)
+## This project is based on Featured prediction Competition by [kaggle.com](https://www.kaggle.com/competitions/bluebook-for-bulldozers/data)
+--
 
-
-# 🚜 Predicting the Sale Price of Bulldozers using Machine Learning 
+## 🚜 Predicting the Sale Price of Bulldozers using Machine Learning 
 
 In this notebook, we're going to go through an example machine learning project with the goal of predicting the sale price of bulldozers.
 
